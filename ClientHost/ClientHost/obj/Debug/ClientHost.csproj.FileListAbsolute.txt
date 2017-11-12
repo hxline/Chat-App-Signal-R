@@ -1,0 +1,12 @@
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\ClientHost.exe.config
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\ClientHost.exe
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\ClientHost.pdb
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\Newtonsoft.Json.dll
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\bin\Debug\Newtonsoft.Json.xml
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\obj\Debug\ClientHost.exe
+c:\users\handoyo\documents\visual studio 2013\Projects\ClientHost\ClientHost\obj\Debug\ClientHost.pdb
+D:\Projects\ClientHost\ClientHost\bin\Debug\ClientHost.exe.config
+D:\Projects\ClientHost\ClientHost\obj\Debug\ClientHost.exe
+D:\Projects\ClientHost\ClientHost\obj\Debug\ClientHost.pdb
